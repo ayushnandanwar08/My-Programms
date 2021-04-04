@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ayush-003
-- 👀 I’m interested in learning 
+- 👋 Hi, I’m Ayush Nandanwar
+- 👀 I’m interested in Learning new thing
 - 🌱 I’m currently learning C Programming
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on ........
 - 📫 How to reach me on Instagram/Facebook
+
 
 <!---
 ayush-003/ayush-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
