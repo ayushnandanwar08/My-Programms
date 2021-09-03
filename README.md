@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Nandanwar
 - 👀 I’m interested in Learning new thing
-- 🌱 I’m currently learning C and Python Programming
+- 🌱 I’m currently learning C/C++ and Python Programming
 - 💞️ I’m looking to collaborate on ........
 - 📫 How to reach me on Instagram/Facebook
 
